@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+# GCP Libraries
+google-cloud-aiplatform
+google-cloud-discoveryengine
+google-cloud-bigquery
+google-cloud-firestore
+google-cloud-storage
+# Agent Development Kit (ADK)
+google-adk
+# Utilities
+httpx
